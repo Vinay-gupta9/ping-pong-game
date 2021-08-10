@@ -9,3 +9,6 @@ Step 1) Create two paddles A and B on the left and right side of the screen. <br
 Step 2) Create a ball. <br>
 Step 3) Create an event to move the paddle vertically on pressing a certain key. <br>
 Step 4) Create the function to update the score after each player misses a collision. <br>
+
+### Ping Pong Game Flowchart <br>
+<img src="https://almettkidscoding.github.io/images/pong_game_design.png" class="center">
